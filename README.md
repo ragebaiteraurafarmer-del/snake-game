@@ -1,2 +1,2 @@
 # snake-game
-i just coded the google ai shit by myself 
+i just coded the google snake gameshit by myself 
